@@ -1,11 +1,16 @@
-# Anomaly-Mod_YashvirGaming
+This is the GitHub for the getting all my latest updated openbullet configs pack.
+All these configs were created by me.
+I have special videos tutorial on youtube teaching how to make configs.
+You could search and subscribe to me.
 
-This is the GitHub for the OpenBullet Mod, Anomaly (Formerly Paradox Mod).
 
-All future updates will be under Anomaly
+How to use this configs.zip APi Link ?
+1. Run your Openbullet
+2. Click Settings, Openbullet, Sources.
+3. In sources click add Source.
+4. In the App URL paste the ConfigsPack2021.zip Api link
+5. Hit Save, go back to Configs and click Rescan
 
-This Mod includes Improvements and Additions to Vanilla OpenBullet.
 
-Special Thanks to - Ruri -Created BB and OB, Meinname -Beta Tester and Contributor, Demiurgo -Beta Tester and Contributor, LethalLuck -Developer of Anomaly, Pure -Developer of Anomaly
-
-This Mod has gotten all the support it needs. Thank you. If you are interested in donating then please donate to Ruri. The creator of OB. His BTC Address is 1A9fPuTezLt4L8MmCEjvE1GKP6Z59zPovg
+Make a BTC Donation to support me in all ways.
+My Wallet Address: 1A9fPuTezLt4L8MmCEjvE1GKP6Z59zPovg
