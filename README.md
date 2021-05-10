@@ -4,7 +4,7 @@ I have special videos tutorial on youtube teaching how to make configs.
 You could search and subscribe to me.
 
 
-How to use this ConfigsPack2021.zip APi Link ?
+How to use this Repository-Configs-Pack-2021.zip APi Link ?
 1. Run your Openbullet
 2. Click Settings, Openbullet, Sources.
 3. In sources click add Source.
