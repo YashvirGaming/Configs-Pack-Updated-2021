@@ -11,6 +11,15 @@ How to use this Repository-Configs-Pack-2021.zip APi Link ?
 4. In the App URL paste the ConfigsPack2021.zip Api link
 5. Hit Save, go back to Configs and click Rescan
 
+Note: If for some reasons its not pulling the APi link,
+then download the zip and extract all configs manually in OB Configs folder.
+
 
 Make a BTC Donation to support me in all ways.
 My Wallet Address: 1A9fPuTezLt4L8MmCEjvE1GKP6Z59zPovg
+
+
+
+#YashvirGaming
+#Configs
+#Openbullet
